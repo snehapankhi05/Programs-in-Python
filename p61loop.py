@@ -11,5 +11,6 @@ print("Series:", series)
 print("Sum:", sum_series)
 
 """
+we have to print
 1-4+9-16+25 ...sum
 """
